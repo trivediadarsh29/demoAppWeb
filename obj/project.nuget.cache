@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i9CbKPzAwLsDJPjQU+xrLIp5TLonjFLUtlzlaJOoqkx8YOHRM/6vX1w+8gN1vHYKUVTLUw0k/5/mNuzhEnKlOg==",
+  "dgSpecHash": "EBgQ3D62SgxQsg8JnevfZZNlmZkMvpxqF3atRAzEOspbZDQNc5o3ur4Jx3x9Ws0ehc8IWJTvE9b8kkytzSMc+A==",
   "success": true,
-  "projectFilePath": "D:\\Dotnet Workspace\\DemoAppWeb\\DemoAppWeb.csproj",
+  "projectFilePath": "D:\\Dotnet Workspace\\GitHubDemo\\demoAppWeb\\DemoAppWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adarsht\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
   ],

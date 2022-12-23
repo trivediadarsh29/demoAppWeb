@@ -103,11 +103,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dotnet Workspace\\DemoAppWeb\\DemoAppWeb.csproj",
+      "projectUniqueName": "D:\\Dotnet Workspace\\GitHubDemo\\demoAppWeb\\DemoAppWeb.csproj",
       "projectName": "DemoAppWeb",
-      "projectPath": "D:\\Dotnet Workspace\\DemoAppWeb\\DemoAppWeb.csproj",
+      "projectPath": "D:\\Dotnet Workspace\\GitHubDemo\\demoAppWeb\\DemoAppWeb.csproj",
       "packagesPath": "C:\\Users\\adarsht\\.nuget\\packages\\",
-      "outputPath": "D:\\Dotnet Workspace\\DemoAppWeb\\obj\\",
+      "outputPath": "D:\\Dotnet Workspace\\GitHubDemo\\demoAppWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\adarsht\\AppData\\Roaming\\NuGet\\NuGet.Config",
